@@ -2,6 +2,6 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/TakeCare/.vs/TakeCare
-/TakeCare/TakeCare/TakeCare.Web/bin/Debug/net6.0
+/TakeCare/.vs
+/TakeCare/TakeCare/TakeCare.Web/bin
 /TakeCare/TakeCare/TakeCare.Web/obj
